@@ -156,11 +156,14 @@ body   {
 font-size: 10px;
 line-height: 12px;
 margin-bottom: 2px;
+
 }
 .card-title {
     font-weight: bold;
     font-size: 14px;
     line-height: 16px;
+    text-decoration: none;
+color: white;
 }
 .series-1 {
     background: linear-gradient(188deg, rgba(28, 18, 24, 0.5) 0%, #2d2d2d 100%), url(../img/series/series-1.jpg);
